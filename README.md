@@ -1,7 +1,8 @@
 # Time Series Analysis and Forecasting of Air Passengers Data
 
 # Overview
-This Jupyter Notebook demonstrates a comprehensive time series analysis and forecasting of air passenger data. The project uses Python to analyze historical air travel trends and predict future passenger numbers.
+This Jupyter Notebook demonstrates a comprehensive time series analysis and forecasting of air passenger data. 
+The project uses Python to analyze historical air travel trends and predict future passenger numbers.
 
 # Contents
 Data Loading and Preprocessing
@@ -29,6 +30,8 @@ pandas
 matplotlib
 
 statsmodels
+
+pdarima
 
 # Dataset
 The analysis uses the 'airpassengers.csv' file, which contains monthly totals of airline passengers from 1949 to 1960.
